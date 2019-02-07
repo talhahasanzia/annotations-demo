@@ -1,6 +1,7 @@
 package com.testapps.annotations_demo_app;
 
 import com.testapps.annotation.Init;
+import com.testapps.annotation.Instance;
 import com.testapps.annotation.initializers.Initializer;
 
 import org.json.JSONObject;
@@ -9,6 +10,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
+
 
 @RunWith(JUnit4.class)
 public class InitializerTest {

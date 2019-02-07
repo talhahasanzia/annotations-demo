@@ -18,6 +18,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../androidcustomer/app/src/main/java/com/munchies/customer/app/favorites/views/FavoritesActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../androidcustomer/app/src/main/java/com/munchies/customer/commons/callbacks/NetworkInfoCallback.java">
           <value>
             <set />
@@ -28,7 +33,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../androidcustomer/app/src/main/java/com/munchies/customer/commons/contracts/BaseView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../androidcustomer/app/src/main/java/com/munchies/customer/commons/ui/activities/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../androidcustomer/app/src/main/java/com/munchies/customer/favorites/views/FavoritesActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../androidcustomer/app/src/test/java/com/munchies/customer/app/auth/forgot/password/presenters/ForgotPasswordPresenterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../androidcustomer/app/src/test/java/com/munchies/customer/auth/forgot/password/presenters/ForgotPasswordPresenterTest.java">
           <value>
             <set />
           </value>
@@ -53,12 +78,42 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/testapps/annotations_demo_app/BlankFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/testapps/annotations_demo_app/MainActivity.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/testapps/annotations_demo_app/Sample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/test/java/com/testapps/annotations_demo_app/InitializerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/processor/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/processor/src/main/java/com/testapps/processor/InstanceProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/processor/src/main/resources/META-INF/services/javax.annotation.processing.Processor">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../router-annotations/annotation/annotation.iml">
           <value>
             <set />
           </value>
