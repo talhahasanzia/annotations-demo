@@ -3,7 +3,32 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../androidcustomer/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../androidcustomer/app/src/main/java/com/munchies/customer/commons/callbacks/NetworkInfoCallback.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../androidcustomer/app/src/main/java/com/munchies/customer/commons/callbacks/NetworkInfoReceiver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../androidcustomer/app/src/main/java/com/munchies/customer/commons/ui/activities/BaseActivity.java">
           <value>
             <set />
           </value>
@@ -19,6 +44,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/annotation/src/main/java/com/testapps/annotation/initializers/Initializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/testapps/annotations_demo_app/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/test/java/com/testapps/annotations_demo_app/InitializerTest.java">
           <value>
             <set />
           </value>
