@@ -33,7 +33,9 @@ import javax.tools.Diagnostic;
 @SupportedAnnotationTypes("com.testapps.annotation.Instance")
 public class InstanceProcessor extends AbstractProcessor {
 
+    // v4 fragment package
     private final String V4_FRAGMENT = "android.support.v4.app.Fragment";
+
     // Bundle class specification
     private final ClassName classBundle = ClassName.get("android.os", "Bundle");
 
